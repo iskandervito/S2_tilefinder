@@ -64,7 +64,7 @@ In addition to output script, a figure is displayed showing :
 
 ## Authors
 
-* **Iskander Benhadj** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Iskander Benhadj 2017** 
 
 
 ## License
