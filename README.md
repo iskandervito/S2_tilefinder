@@ -29,7 +29,7 @@ bottomRightLon = 8;
 
 - Run the matlab script.
 
-The script will ouptut the Sentinel2 tiles intersecting your region of interest. Below an example of output using the exapMle coordinates listed above:
+The script will ouptut the Sentinel2 tiles intersecting your region of interest. Below an example of output using the example coordinates listed above:
 ```
 Found possible 31U UTM zone search
 Found possible 32U UTM zone search
